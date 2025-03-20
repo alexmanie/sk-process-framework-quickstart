@@ -1,0 +1,13 @@
+processes:
+  - id: "new_product"
+    name: "DocumentationNewProduct"
+    description: "This is an example process"
+
+steps:
+  - name: "step1"
+    description: "This is the first step"
+    action: "action1"
+  - name: "step2"
+    description: "This is the second step"
+    action: "action2"
+

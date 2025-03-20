@@ -1,0 +1,6 @@
+semantic-kernel==1.20.0
+python-dotenv
+azure-identity
+openai
+pyprojroot
+PyYAML
